@@ -25,6 +25,6 @@ The 10 problems I used are located in the "data/" directory
 The results from the program are in the "data_from_program/" directory, these are in a csv file, which made it very easy to create the heatmaps
 The graphs are located in the "graphs/" directory
 
-From the reuslts it's clear to see that the two genetic algorithms performed the best with the "reverse sub-tour operator" working the best in every situation.
+From the reuslts it's clear to see that the two genetic algorithms performed very with the "reverse sub-tour operator" working the best.
 
 ![GitHub Logo](/graphs/Five_algorithm_Heatmap.png)
